@@ -42,8 +42,8 @@
     <a href="https://github.com/lan-tianxiang/jd_shell/issues/new/choose">请求增加功能</a>
   </p>
 </p>
-<p align="center">喜欢我？那就考虑<a href="">捐赠哈哈❤</a>一下吧！
-<h3 align="center">当然，觉得默默关注也是鼓励的话，也可以Follow我哟哈哈😎！你的支持是我最大的动力！</h3>
+<p align="center">喜欢我？那就考虑<a href="">捐赠❤</a>一下吧！
+<h3 align="center">当然，觉得默默关注也是鼓励的话，也可以Follow我哟😎！你的支持是我最大的动力！</h3>
 <p>
     <br />
     <br />
