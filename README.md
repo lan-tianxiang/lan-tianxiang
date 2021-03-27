@@ -1,6 +1,50 @@
 ### Welcome To Sam's Happy Time 🤡
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lan-tianxiang&theme=nightowl&show_icons=true)
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">LANTIANXIANG</h2>
+ <p align="center">Make the World a Better Place</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/lan-tianxiang/jd_shell/actions">
+      <img alt="Tests Passing" src="https://github.com/lan-tianxiang/jd_shell/workflows/DockerHub/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/lan-tianxiang/jd_shell">
+      <img src="https://codecov.io/gh/lan-tianxiang/jd_shell/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/lan-tianxiang/jd_shell/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/lan-tianxiang/jd_shell?color=0088ff" />
+    </a>
+    <a href="https://github.com/lan-tianxiang/jd_shell/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/lan-tianxiang/jd_shell?color=0088ff" />
+    </a>
+    <br />
+    <br />
+    <a href="https://github.com/lan-tianxiang/">
+      <img src="https://img.shields.io/badge/Who%20Is-Lan%20Tian%20Xiang%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/lan-tianxiang/jd_shell">
+      <img src="https://img.shields.io/badge/What%20Is-JD%20一%20Shell%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+    <br />
+    <br />
+    <a href="https://github.com/lan-tianxiang/jd_shell">
+      <img src="https://github-readme-stats.vercel.app/api?username=lan-tianxiang&theme=nightowl&show_icons=true"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="#demo">查看 Demo</a>
+    ·
+    <a href="https://github.com/lan-tianxiang/jd_shell/issues/new/choose">报告 Bug</a>
+    ·
+    <a href="https://github.com/lan-tianxiang/jd_shell/issues/new/choose">请求增加功能</a>
+  </p>
+</p>
+<p align="center">喜欢这个项目？请考虑<a href="">捐赠</a>来帮助它完善！
+
+
 <!--
 **lan-tianxiang/lan-tianxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +59,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
