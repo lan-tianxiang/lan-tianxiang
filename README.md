@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome To Sam's Happy Time 🤡
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lan-tianxiang&theme=nightowl&show_icons=true)
 <!--
 **lan-tianxiang/lan-tianxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
