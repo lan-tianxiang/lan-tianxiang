@@ -10,20 +10,20 @@
  <p align="center">Make the World a Better Place</p>
 </p>
   <p align="center">
-    <a href="https://github.com/lan-tianxiang/jd_shell/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/lan-tianxiang/jd_shell.svg?label=License&style=for-the-badge"></a>
-    <a href="https://github.com/lan-tianxiang/jd_shell/issues"><img alt="Issues" src="https://img.shields.io/github/issues/lan-tianxiang/jd_shell?color=0088ff&style=for-the-badge" /></a>
-    <a href="https://github.com/lan-tianxiang/jd_shell/stargazers"><img alt="GitHub" src="https://img.shields.io/github/stars/lan-tianxiang/jd_shell.svg?label=Stars&style=for-the-badge"></a>
+    <a href="https://github.com/lan-tianxiang/jd_shell/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/lan-tianxiang/js_tool.svg?label=License&style=for-the-badge"></a>
+    <a href="https://github.com/lan-tianxiang/jd_shell/issues"><img alt="Issues" src="https://img.shields.io/github/issues/lan-tianxiang/js_tool?color=0088ff&style=for-the-badge" /></a>
+    <a href="https://github.com/lan-tianxiang/jd_shell/stargazers"><img alt="GitHub" src="https://img.shields.io/github/stars/lan-tianxiang/js_tool.svg?label=Stars&style=for-the-badge"></a>
     <br />
     <br />
     <a href="https://github.com/lan-tianxiang/">
       <img src="https://img.shields.io/badge/Who%20Is-Lan%20Tian%20Xiang%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
-    <a href="https://github.com/lan-tianxiang/jd_shell">
+    <a href="https://github.com/lan-tianxiang/js_tool">
       <img src="https://img.shields.io/badge/What%20Is-JD%20%20__%20Shell%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
     <br />
     <br />
-    <a href="https://github.com/lan-tianxiang/jd_shell">
+    <a href="https://github.com/lan-tianxiang/js_tool">
       <img src="https://github-readme-stats.vercel.app/api?username=lan-tianxiang&theme=nightowl&show_icons=true"/>
     </a>
   </p>
