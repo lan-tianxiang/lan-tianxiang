@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Who%20Is-Lan%20Tian%20Xiang%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://github.com/lan-tianxiang/js_tool">
-      <img src="https://img.shields.io/badge/What%20Is-JD%20%20__%20Shell%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/What%20Is-JS%20%20__%20TOOL%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
     <br />
     <br />
